@@ -1,0 +1,26 @@
+# Database (contains student data)
+*.db
+
+# Keil build output
+Objects/
+Listings/
+*.axf
+*.o
+*.d
+*.map
+*.lnp
+*.dep
+*.htm
+*.build_log.htm
+
+# Keil per-user files
+*.uvguix.*
+DebugConfig/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
